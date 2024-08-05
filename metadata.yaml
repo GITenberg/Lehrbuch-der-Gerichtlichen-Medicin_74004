@@ -1,0 +1,34 @@
+_repo: Lehrbuch-der-Gerichtlichen-Medicin_74004
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hofmann, Eduard, Ritter von
+    aliases:
+    - Hofmann, E. (Eduard), Ritter von
+    - Von Hofmann, Eduard, Ritter
+    birthdate: 1837
+    deathdate: 1897
+    gutenberg_agent_id: '57309'
+    url: http://www.gutenberg.org/2009/agents/57309
+    wikipedia: https://de.wikipedia.org/wiki/Eduard_von_Hofmann
+description: ''
+gutenberg_issued: '2024-07-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74004'
+language: de
+pgterms:marc905: 20170415082205hofmann
+pgterms:marc906: '1895'
+pgterms:marc907: at
+production_note: Peter Becker and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aWien :$bUrban & Schwarzenberg, $c1895.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Medical jurisprudence'
+- !lcc 'RA'
+- GITenberg
+title: Lehrbuch der Gerichtlichen Medicin
+url: http://www.gutenberg.org/ebooks/74004
